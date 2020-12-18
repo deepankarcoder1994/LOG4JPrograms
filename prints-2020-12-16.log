@@ -1,0 +1,9 @@
+16:11:58.034 [main] ERROR alpha.Demo - object is not present
+16:11:58.036 [main] FATAL alpha.Demo - this is fatal!!
+16:13:48.344 [main] DEBUG beta.Demo1 - I am debugging
+16:13:48.346 [main] INFO  beta.Demo1 - object is present
+16:13:48.346 [main] ERROR beta.Demo1 - object is not present
+16:13:48.346 [main] FATAL beta.Demo1 - this is fatal!!
+16:18:56.355 [main] ERROR alpha.Demo - object is not present
+16:18:56.358 [main] FATAL alpha.Demo - this is fatal!!
+16:19:14.699 [main] ERROR alpha.Demo - object is not present
